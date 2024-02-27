@@ -1,0 +1,12 @@
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\bin\Debug\CodeHero MNGR.exe.config
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\bin\Debug\CodeHero MNGR.exe
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\bin\Debug\CodeHero MNGR.pdb
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\obj\Debug\CodeHero MNGR.csproj.AssemblyReference.cache
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\obj\Debug\CodeHero_MNGR.Form1.resources
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\obj\Debug\CodeHero_MNGR.Properties.Resources.resources
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\obj\Debug\CodeHero MNGR.csproj.GenerateResource.cache
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\obj\Debug\CodeHero MNGR.csproj.CoreCompileInputs.cache
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\obj\Debug\CodeHero MNGR.exe
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\obj\Debug\CodeHero MNGR.pdb
+C:\Users\Jermzu\source\repos\CodeHero MNGR\CodeHero MNGR\obj\Debug\CodeHero.B898A0D4.Up2Date
